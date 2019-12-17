@@ -51,7 +51,7 @@ function App() {
     },
     {
       "website_url": "https://sideprojhdw.herokuapp.com/",
-      "image_name": "https://i.imgur.com/5tvBBmP.png",
+      "image_name": "https://i.imgur.com/IbyYEbY.png",
       "alt": "Seat Reservation System"
     },
     {
