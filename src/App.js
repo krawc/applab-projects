@@ -36,7 +36,7 @@ function App() {
     },
     {
       "website_url": "https://shuttle-buses.herokuapp.com",
-      "image_name": "https://i.imgur.com/fKkYDPu.png",
+      "image_name": "https://i.imgur.com/5tvBBmP.png",
       "alt": "Shuttle Service for NYU Shanghai"
     },
     {
@@ -51,7 +51,7 @@ function App() {
     },
     {
       "website_url": "https://sideprojhdw.herokuapp.com/",
-      "image_name": "https://i.imgur.com/7DJIC4H.png",
+      "image_name": "https://i.imgur.com/5tvBBmP.png",
       "alt": "Seat Reservation System"
     },
     {
@@ -66,17 +66,17 @@ function App() {
     },
     {
       "website_url": "https://kimmystamagotcha.herokuapp.com/",
-      "image_name": "https://i.imgur.com/A9B0bd9.png",
+      "image_name": "https://i.imgur.com/I2CH3Hf.png",
       "alt": "Budget Tamagotchi"
     },
     {
       "website_url": "https://guidedpositivitybreak.herokuapp.com/",
-      "image_name": "https://i.imgur.com/JVbup3l.png",
+      "image_name": "https://i.imgur.com/wrrzR60.png",
       "alt": "Guided Positivity Break"
     },
     {
       "website_url": "https://nyushdensitycounter.herokuapp.com/",
-      "image_name": "https://i.imgur.com/7jSQl0V.png",
+      "image_name": "https://i.imgur.com/lFt3SMF.png",
       "alt": "NYUSH Floor Map"
     },
     {
@@ -86,7 +86,7 @@ function App() {
     },
     {
       "website_url": "https://sideprojectlyrics.herokuapp.com/",
-      "image_name": "https://i.imgur.com/nhIYJMy.png",
+      "image_name": "https://i.imgur.com/R60aoqm.png",
       "alt": "All The Weeknd Lyrics"
     },
     {
